@@ -1,6 +1,6 @@
 # gollo
 
-test golang server
+golang test server
 
 ```
 $ go run .
